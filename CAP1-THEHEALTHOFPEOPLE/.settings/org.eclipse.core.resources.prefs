@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/controller/PublicBMIController.java=UTF-8
+encoding//src/controller/UserAddController.java=UTF-8
+encoding//src/controller/UserLoginController.java=UTF-8
+encoding//src/controller/UserLogoutController.java=UTF-8
+encoding//src/model/dao/NewsDAO.java=UTF-8
+encoding//src/util/AuthUtil.java=UTF-8
+encoding//src/util/DatabaseConnection.java=UTF-8
